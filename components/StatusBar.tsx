@@ -10,6 +10,9 @@ export const StatusBar: React.FC = () => {
         </div>
         <div>✓ No issues</div>
       </div>
+      <div className="flex items-center gap-3 font-bold">
+        <div>CA: Soon</div>
+      </div>
       <div className="flex items-center gap-3">
         <div>Ln 1, Col 1</div>
         <div>Spaces: 2</div>
