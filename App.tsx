@@ -240,10 +240,10 @@ const MissionFile = () => (
         </ol>
         
         <div className="bg-black p-4 font-code text-xs text-green-400 border border-gray-700">
-            > TRANSPARENCY_MODE: ON<br/>
-            > COLLABS: PUBLIC_ONLY<br/>
-            > BACKCHANNELS: DISABLED<br/>
-            > VIBES: IMMUTABLE
+            {'>'} TRANSPARENCY_MODE: ON<br/>
+            {'>'} COLLABS: PUBLIC_ONLY<br/>
+            {'>'} BACKCHANNELS: DISABLED<br/>
+            {'>'} VIBES: IMMUTABLE
         </div>
     </div>
 );
