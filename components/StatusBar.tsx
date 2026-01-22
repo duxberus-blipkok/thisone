@@ -11,7 +11,7 @@ export const StatusBar: React.FC = () => {
         <div>✓ No issues</div>
       </div>
       <div className="flex items-center gap-3 font-bold">
-        <div>CA: Soon</div>
+        <div>CA: 8BV89un1w1KE5kjQq5Q9ouy5Guu2md2Jy52SsWnrpump</div>
       </div>
       <div className="flex items-center gap-3">
         <div>Ln 1, Col 1</div>
