@@ -143,7 +143,7 @@ const HomeFile = () => (
     <div className="code-line"><span className="text-vscode-keyword">import</span> {'{ PumpfunPixel }'} <span className="text-vscode-keyword">from</span> <span className="text-vscode-string">'./studio'</span>;</div>
     <div className="code-line">&nbsp;</div>
     <div className="code-line"><span className="text-vscode-comment">// twitter @kafeosas</span></div>
-    <div className="code-line"><span className="text-vscode-comment">// CA: Soon</span></div>
+    <div className="code-line"><span className="text-vscode-comment">// CA: 8BV89un1w1KE5kjQq5Q9ouy5Guu2md2Jy52SsWnrpump</span></div>
     <div className="code-line">&nbsp;</div>
     <div className="code-line"><span className="text-vscode-comment">// {HERO_TEXT.description}</span></div>
     <div className="code-line"><span className="text-vscode-keyword">export default function</span> <span className="text-vscode-func">App</span>() {'{'}</div>
